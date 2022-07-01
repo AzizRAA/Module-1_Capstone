@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Capstone 1
+# Module 1 Capstone Project
 
-> Description the project.
+> Module 1: Capstonre Project is about CyberXlab a summer course event.
 
 
 ## Built With
 
-- Javascript , CSS , HTML5 
-- Bootstrap
-- VSCode , Linters , Github Deploy
+- Major languages
+- Frameworks
+- Technologies used
 
 ## Live Demo
 
@@ -26,15 +26,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Github Desktop / Github Bash
+node
+Code editor (e.g. VS Code)
 
 ## 🤝 Contributing
 
@@ -48,8 +42,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+A template designed by Cindy Shin was followed in this project. Her Behance handle is [@behance](https://www.behance.net/adagio07)
 
 ## 📝 License
 
